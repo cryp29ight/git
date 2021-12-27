@@ -1,0 +1,12 @@
+git init // To initialllize a git folder
+git add . // to add all the items in current folder
+git commit -m "message of the commit"
+git push // to push in remote repository 
+
+git branch // to  show branches
+git branch bramchName //To create a new branch
+git checkout bramchName // to switch bitween branches
+
+git checkout -b bramchName  //To switch created branch 
+
+git pull 
